@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Marcela Saska",
+        "cpf": "00000014141",
+        "email": "marcela@hotmail.com",
+        "whatsapp": "16999999999",
+        "address": {
+            "postalcode": "14804110",
+            "street": "Rua Angelina Credidio Ópice",
+            "number": "51",
+            "details": "Casa",
+            "district": "Parque Residencial Vale do Sol",
+            "city_state": "Araraquara/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "João Lucas",
+        "cpf": "x00000141AA",
+        "email": "joao@hotmail.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "Ap 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Marcela Saska",
+        "cpf": "00000014141",
+        "email": "marcela.com.br",
+        "whatsapp": "16999999999",
+        "address": {
+            "postalcode": "14804110",
+            "street": "Rua Angelina Credidio Ópice",
+            "number": "51",
+            "details": "Casa",
+            "district": "Parque Residencial Vale do Sol",
+            "city_state": "Araraquara/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
